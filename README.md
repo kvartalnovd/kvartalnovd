@@ -4,7 +4,9 @@
 		<br>
 		I'm  Daniil Kvartalnov
 	</h1>
-    <h3>Software Engineer from Moscow, Russia</h3>
+    <h3>Software Engineer from Moscow, Russia </h3>
+	<img src="icon/svg/flag/ru/city/moscow.svg" style="height: 30px;" />
+	<img src="icon/svg/flag/ru/national_flag.svg" style="height: 30px; padding-left: 5px;" />
 </div>
 
 <!-- <div id="socials" align="center">
@@ -22,8 +24,7 @@
 ## About me
 > I have been involved in the world of IT since I was 14, and professionally since 2020.
 > As a result, I am well-versed in current and emerging technologies.<br>
-> I appreciate the attention to detail and engineering approach in all aspects of life. I enjoy creating and improving things, fixing them, and testing them in an efficient manner.
-<br>
+> I appreciate the attention to detail and engineering approach in all aspects of life. I enjoy creating and improving things, fixing them, and testing them in an efficient manner. <br>
 > At the moment, I work for the Garda, where we develop deception technologies. These technologies are a set of techniques for simulating an IT infrastructure and providing misleading information to intruders in order to detect and slow down their attacks, and ultimately prevent them from causing significant damage.
 
 <!-- <div style="float: right; width: 100%; text-align: right;"><b>© Daniel Kvartalnov (Myself)</b></div><br> -->
@@ -32,9 +33,9 @@
 
 ### Hard skills:
 
-- __Coding:__
+__Coding:__
 I have a solid understanding of __Python 3__ and serious experience using __Golang__ and __PHP 7__. Additionally, I have some familiarity with __JavaScript, TypeScript, C, C++ and Bash__. I am currently deepening my knowledge of __Golang__. 
-<div style="margin-left: 40px;">
+<div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python 3" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Golang" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="30" height="30"/>&nbsp;
@@ -44,25 +45,25 @@ I have a solid understanding of __Python 3__ and serious experience using __Gola
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" width="30" height="30"/>&nbsp;
 </div>
 
-- __Python:__
+__Python:__
 I know __Django 3/4__ and __Django REST framework__ at the proper level I understand __Flask__ and __FastAPI__. I have worked with a wide range of libraries.
-<div style="margin-left: 40px;">
+<div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="Django REST framework" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="30" height="30"/>&nbsp;
 </div>
 
-- __Golang:__
+__Golang:__
 I have extensive experience in writing and developing web applications and microservices. I have worked with various technologies, including __Gin__, __Gorm__, and __gRPC__, to create high-quality software. I am skilled at writing, testing, and debugging these applications to ensure their efficiency and reliability.
 
-<div style="margin-left: 40px;">
+<div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" title="gRPC" width="30" height="30"/>&nbsp;
 </div>
 
-- __DevOps:__
+__DevOps:__
 For over a year, I have worked in the DevOps and SysOps team, having learned most, if not all, of the technologies we use. My knowledge of docker and docker-compose covers all the tasks required by my job. __GIT, CI/CD, S3, LDAP/AD, k8s, nginx, vault__ and __systemd__ are all systems I understand as an engineer. I can help with any new service, from creating a project directory on my local machine to deploying it to a virtual machine or k8s cluster.
-<div style="margin-left: 40px;">
+<div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="GIT" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" width="30" height="30"/>&nbsp;
@@ -76,9 +77,9 @@ For over a year, I have worked in the DevOps and SysOps team, having learned mos
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" title="Debian" width="30" height="30"/>&nbsp;
 </div>
 
-- __Databases:__
+__Databases:__
 __PostgreSQL__, __MySQL__ and __sqlite3__ binary of course :) I have also worked with other databases in the past, but I am not yet ready to speak on their behalf.
-<div style="margin-left: 40px;">
+<div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgerSQL" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="30" height="30"/>&nbsp;
@@ -87,13 +88,14 @@ __PostgreSQL__, __MySQL__ and __sqlite3__ binary of course :) I have also work
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="Redis" width="30" height="30"/>&nbsp;
 </div>
 
-- __Queues:__
+__Queues:__
 I have created complex projects that use __RabbitMQ__, including communicating between services through asynchronous tasks and response queues using callbacks.
-
-<div style="margin-left: 40px;">
+<div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" width="30" height="30"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" width="30" height="30"/>&nbsp;
 </div>
+
+---
 
 - __Theory:__
 I venerate with and understand the principles of object-oriented programming (OOP) and the RESTful API and Swagger standards. I am also familiar with basic design patterns
